@@ -32,7 +32,6 @@ body {
   padding: 0 10px;
   width: 100%;
   background:rgba(0, 30, 77,0.9);
-  p.inset {border-style: inset;}
   border-radius: 25px;
   padding: 20px; 
   border-bottom: 1px solid white;
@@ -73,6 +72,7 @@ h4 {
 }
 
 p {
+  innset {border-style: inset;}
   margin: 15px 0;
 }
 
