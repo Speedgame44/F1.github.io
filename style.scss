@@ -143,6 +143,11 @@ th {
 }
 
 // Fixes images in popup boxes from Google Translate
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
 .gmnoprint img {
   max-width: none;
 }
